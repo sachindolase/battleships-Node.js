@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/sachindolase/battleships-Node.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/sachindolase/battleships-Node.js"
   },
-  "homepage": "",
+  "homepage": "https://github.com/sachindolase/battleships-Node.js",
   "dependencies": {
     "express": "^4.17.1",
     "socket.io": "^2.3.0"
